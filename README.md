@@ -76,5 +76,5 @@ class: cart-row <br />
 
 2.place_order.php<br />
 
-#### tutorial is here!!
-https://www.codeofaninja.com/2013/04/shopping-cart-in-php.html
+#### Follow Us here!!
+https://github.com/RCLDevelopers
